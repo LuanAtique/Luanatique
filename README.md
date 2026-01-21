@@ -58,9 +58,9 @@ Me chamo Luan Teixeira Atique Rei, tenho 24 anos e sou natural de São José do 
 />
 
 <br/>
+Tecnologias nos projetos:
 <br/>
 
-Tecnologias nos projetos:
 <img 
       align="left" 
       alt="GitHub Stats" 
