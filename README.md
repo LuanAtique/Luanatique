@@ -56,9 +56,8 @@ Me chamo Luan Teixeira Atique Rei, tenho 24 anos e sou natural de São José do 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
-
-<br/>
 Tecnologias nos projetos:
+<br/>
 <br/>
 
 <img 
