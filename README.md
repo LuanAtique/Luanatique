@@ -59,11 +59,11 @@ Me chamo Luan Teixeira Atique Rei, tenho 24 anos e sou natural de São José do 
 <br/>
 <br/>
 <br/>
-Tecnologias nos projetos: <img 
+<img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanAtique&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanAtique&theme=tokyonight&layout=compact&custom_title=Tecnologias nos projetos:&langs_count=9" 
   />
 
 </p>
